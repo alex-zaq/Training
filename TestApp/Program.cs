@@ -7,6 +7,20 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //Calc.Method1(a:1,5,c:6);
 
 
@@ -18,8 +32,6 @@
 
 
 //}
-
-
 
 
 //class MyCustomException:DivideByZeroException{ }
